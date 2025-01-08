@@ -1,0 +1,6 @@
+! book name
+# Academy Tasks,9
+* newName,active
+newDetails
+* name2,active
+details

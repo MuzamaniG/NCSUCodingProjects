@@ -1,0 +1,5 @@
+Testing hashPassword for pass: password, salt: rVu9zC1N
+Expected result: JKUg1ByWFvKwjFHwMFLcD1
+Actual result:   JKUg1ByWFvKwjFHwMFLcDv
+Actual result bytes: 4a 4b 55 67 31 42 79 57 46 76 4b 77 6a 46 48 77 4d 46 4c 63 44 76 
+**** Failed unit test on line 573 of unitTest.c
